@@ -4,3 +4,4 @@
 4
 chandu added 1234
 Naveen deleted 3
+chandu switched to branch devoloper using checkout -b
